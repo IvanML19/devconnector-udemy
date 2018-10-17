@@ -62,7 +62,7 @@ const ProfileSchema = new Schema({
             type: String
         }
     }, ],
-    experience: [{
+    education: [{
         school: {
             type: String,
             required: true
